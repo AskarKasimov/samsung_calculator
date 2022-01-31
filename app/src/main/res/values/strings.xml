@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="count">Посчитать</string>
+    <string name="input">Введите выражение</string>
+    <string name="output">Ответ: </string>
+</resources>
